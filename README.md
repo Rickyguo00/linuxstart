@@ -1,2 +1,3 @@
-# linuxstart
-linuxstart example
+#linuxstart example
+*todo
+right now
